@@ -8,7 +8,9 @@ h1. {{ page.title }}
 
 p(meta). 01 Sep 2015
 
-We need a better model for thinking about branding. Most of the branding advice on the internet and in print is presented as a collection of barely related laws losely based on historical examples. Empirically, this isn't very useful in practice. A hundred contradicting laws of branding are difficult to remember and difficult to apply. They don't present a coherent model of the world, are next to impossible to internalize, and carry little actionable advice.
+We need a better model for thinking about branding.
+
+Most of the branding advice on the internet and in print is presented as a collection of barely related laws losely based on historical examples. Empirically, this isn't very useful in practice. A hundred contradicting laws of branding are difficult to remember and difficult to apply. They don't present a coherent model of the world, are next to impossible to internalize, and carry little actionable advice.
 
 
 
