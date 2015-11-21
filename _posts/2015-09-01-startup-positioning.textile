@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Positioning for engineers
+title: Startup positioning
 wip: true
 ---
 
@@ -8,13 +8,13 @@ h1. {{ page.title }}
 
 p(meta). 01 Sep 2015
 
-If you're just learning how to position your startup, you'll likely run into four types of marketing advice, all useless.
+If you're learning how to position your startup, you'll quickly run into four types of marketing advice, all useless.
 
-The first type comes from the traditional school of marketing and involves "four P's of marketing":https://en.wikipedia.org/wiki/Marketing_mix. This model made sense in the heydey of manufacturing when products required large upfront investment, physical shelf space, and non-negligible marginal cost. None of these conditions are true for software, so you'll find that very little of the traditional marketing mix is applicable to your startup.
+The first type comes from the traditional school and involves "the four P's of marketing":https://en.wikipedia.org/wiki/Marketing_mix. This model made sense in the heydey of manufacturing when products required large upfront investment, physical shelf space, and non-negligible marginal cost. None of these conditions are true for software, so you'll find that very little of the traditional marketing mix is applicable to your startup.
 
-The second type of advice comes from popular marketing books like "The 22 Immutable Laws of Marketing":http://www.amazon.com/The-22-Immutable-Laws-Marketing/dp/0887306667 and "The 22 Immutable Laws of Branding":http://www.amazon.com/22-Immutable-Laws-Branding/dp/0060007737. This advice comes in the form of many soft, self-contradicting rules. In practice, these rules are impossible to hold in your head, and are barely actionable because they aren't internally consistent.
+The second type comes from popular marketing books like "The 22 Immutable Laws of Marketing":http://www.amazon.com/The-22-Immutable-Laws-Marketing/dp/0887306667 and "The 22 Immutable Laws of Branding":http://www.amazon.com/22-Immutable-Laws-Branding/dp/0060007737. This advice comes in the form of many soft, self-contradicting rules. In practice, these rules are impossible to hold in your head, and are barely actionable because they aren't internally consistent.
 
-The third type involves figuring out how your company feels to users, and is favored by marketing consultants. You go through various exercises identifying adjectives, colors, and emotions assosicated with your product, and you come up with your brand definition at the end. 
+The third type involves figuring out how your company feels to users, and is favored by marketing consultants. You go through various exercises identifying adjectives, colors, and emotions assosicated with your product, and you come up with a brand definition at the end. 
 
 The last type is quantatative approach to marketing and is usually preferred by investors.
 
