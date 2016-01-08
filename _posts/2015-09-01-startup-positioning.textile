@@ -8,7 +8,9 @@ h1. {{ page.title }}
 
 p(meta). 01 Sep 2015
 
-Foo
+If you're learning how to position your startup, you're going to run into two types of resources, both useless.
+
+The first type is books like "The 22 Immutable Laws of Marketing":http://www.amazon.com/The-22-Immutable-Laws-Marketing/dp/0887306667 and "Purple Cow":http://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/159184021X. These books exploit a bug in human psychology that makes us interested in lists and insights, and sell for the same reason that people click on Buzzfeed articles. You feel like you're learning while you're reading them, but after you're done you forget most of the content, and are left with no actionable insights.
 
 h2. The three axis model
 
