@@ -14,7 +14,7 @@ The first type is books like "The 22 Immutable Laws of Marketing":http://www.ama
 
 The second type is traditional books about the "marketing mix":https://en.wikipedia.org/wiki/Marketing_mix. These books are designed to educate college students in such a way that they can be marginally effective when they're eventually plugged into entry level jobs at large marketing organizations. This content will give you a reasonably good idea about how large marketing campaigns are planned and executed, but it's so far removed from the needs of startups that it's nearly impossible to translate into specific lessons on startup positioning.
 
-Over the past few years of running "RethinkDB":http://www.rethinkdb.com I've arrived at an actionable model to think of startup positioning by virtue of trial and error. I'll illustrate by drawing on examples from the 2016 U.S. presidential election, partly because the product in politics is all about candidate positioning, and partly because this election has especially good examples of innovation in positioning.
+While running "RethinkDB":http://www.rethinkdb.com over the past few years, by trial and error I've arrived at an systematic model to help think about startup positioning. I'll illustrate the model by drawing on examples from the 2016 U.S. presidential election, partly because the product in politics is all about candidate positioning, and partly because this election has especially good examples of innovation in positioning.
 
 h2. The three axis model
 
