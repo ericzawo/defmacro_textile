@@ -47,5 +47,5 @@ h2. Purpose
 
 <h2 style="margin-left: -8px;"><br />Learning<br /><br /></h2>
 
-# Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
+#_ Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
 
