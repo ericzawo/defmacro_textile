@@ -48,5 +48,7 @@ h2. Purpose
 
 <h2 style="margin-left: -8px;"><br />Learning<br /><br /></h2>
 
-#_ Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
+#_ There are only two things worth reading -- Shakespeare and The Economist.
+# Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
+# The Economist does a pretty good job covering the remaining questions.
 
