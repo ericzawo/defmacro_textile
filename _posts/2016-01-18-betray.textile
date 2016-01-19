@@ -24,6 +24,7 @@ h2. Purpose
 # Give the people who make you happy unconditional kindness and support. Every minute they choose to spend with you they're giving you a gift, not granting you your due. Be grateful and cultivate the discipline to express this gratitude in your every action.
 # Every human being has an inalienable birthright to their own story. Let go of your expectations for other people and don't ever try to coerce anyone to be a particular way. You can only start building meaningful relationships when you accept people exactly as they are.
 # Always be honest, especially when you're afraid. Stop acting. Have the courage to express what's in your heart. Say the words you need to say even when your voice shakes. We are all creatures who meet in boundless infinity for the last time in the world. So drop all pretense and speak with a human voice.
+# Nothing explains humanity like the games we play. We can't help it, so learn to forgive yourself and others.
 
 <h2 style="margin-left: -8px;"><br />Moments<br /><br /></h2>
 
@@ -34,7 +35,6 @@ h2. Purpose
 # Do things with people. Go camping one-on-one with a friend and get to know them better. Travel alone to a new country. Talk to a stranger. Don't measure out your life in coffee spoons. 
 # Live moments with intensity. Allow yourself to be moved to tears by nature, or the beauty of someone's face, or a work of art. Cry in front of others if you feel like crying. Learn not to guard your heart.
 # Play a lot, laugh a lot, and help the people around you play and laugh. We're dancing animals.
-# Nothing explains humanity like the games we play. We can't help it, so learn to forgive yourself and others.
 
 <h2 style="margin-left: -8px;"><br />Career<br /><br /></h2>
 
@@ -50,5 +50,5 @@ h2. Purpose
 
 #_ There are only two things worth reading -- Shakespeare and The Economist.
 # Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
-# The Economist does a pretty good job covering the remaining questions.
+# The Economist does a pretty good job covering the rest.
 
