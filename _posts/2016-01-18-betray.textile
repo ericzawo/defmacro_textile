@@ -1,0 +1,36 @@
+---
+layout: post
+title: Betray your idols
+wip: true
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Jan 2016
+
+This spring I'm turning thirty three. I fully appreciate the irony of giving life advice as a thirty three year old, but I thought it would be interesting to write down the lessons I've learned so far and distill them into a list of precepts. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
+
+# My grandmother is ninety two. First her world shrunk to her room, then to her bed, then to one side of the bed. Then she forgot the names of her loved ones. Then she stopped recognizing our faces. We accumulate nothing and we die alone.
+# So make your life count. Most things here aren't worth fearing. You don't need to be anything, and you don't need to tally your life using anyone else's scoring system. Be deliberate about the responsibilities you assume. Have the courage to betray your idols.
+# Ambition won't make you happy. No matter how interesting the game, sooner or later it will seize to be meaningful. If you have nothing else, you'll find yourself in an abyss so deep it may be too late to climb out.
+# Guard yourself relentlessly against bitterness and cynicism. Choose a life of service. Stand for something. Find a mission that's meaningful to other people, and pour all of yourself into that mission. If you succeed, at the very least you will have improved people's lives. If you fail or were wrong, you'll find solace in having tried.
+# Don't lose yourself in the world of abstractions. Take the time to savor the taste of water, the smell of rain, the sight of friends's faces, the feeling of clothes on your skin, and the sounds of your neighborhood in the morning. Be kind to your body. Pay attention to the changing seasons and the movement of the sun through the sky. When you pierce through the arrogance and the noise, we're unique but we're still animals.
+# Find the strength to let go of people who make you unhappy. Every minute spent trying to fix relationhips that couldn't work is a minute robbed from the people who could love and accept you as you are.
+# Give the people who make you happy unconditional kindness and support. Every minute they choose to spend with you they're giving you a gift, not granting you your due. Be grateful and cultivate the discipline to express your gratitude in your every action.
+# Every human being has an inalienable birthright to their own story. Let go of your expectations for other people. Don't ever try to coerce anyone to be a particular way. You can only start building meaningful relationships when you accept people exactly as they are.
+# Spend time with people because you enjoy the moments spent in their company, not because you're trying to check a box of your own invention.
+# Always be honest, especially when you're afraid. Stop acting. Have the courage to express what's in your heart. Say the words you need to say even when your voice shakes. We are all creatures who meet in boundless infinity for the last time in the world. So drop all pretense and speak with a human voice.
+# Time is limited. Simplify your life. Don't treat abstractions as reality.
+# Don't measure out your life in coffee spoons. Do things with people.
+# Live moments with intensity. Allow yourself to be moved to tears by nature, or the beauty of someone's face, or a work of art. Cry in front of others if you feel like crying. Learn not to guard your heart.
+# Nothing explains humanity like the games we play.
+# So play a lot, laugh a lot, and help the people around you play and laugh. We're dancing animals.
+# Cultivate respect for competence. No U.S. president was an idiot.
+# Let go of opinions, they're probably wrong. Don't make up your mind unless you have to. Use data.
+# Large groups of people are probability distributions. Don't anthropomorphize them.
+# Finding an important problem is 50% of the battle.
+# But don't wait too long. On s’engage et puis... on voit.
+# Surrounding yourself with the right people is the other 50%.
+# Don't worry so much. If you see ten problems walking toward you, nine of them will fall into a ditch by the time they get to you.
+# Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
+
