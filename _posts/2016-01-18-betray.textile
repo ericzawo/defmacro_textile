@@ -8,7 +8,7 @@ h1. {{ page.title }}
 
 p(meta). 18 Jan 2016
 
-This spring I'm turning thirty three. I fully appreciate the irony of giving life advice as a thirty three year old, but I thought it would be interesting to write down the lessons I've learned so far and distill them into a list of precepts. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
+This spring I'm turning thirty three. I fully appreciate the irony of giving life advice as a thirty three year old, but I thought it would be interesting to distill what I've learned so far into a list of lessons. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
 
 h2. Purpose
 <br />
@@ -48,7 +48,7 @@ h2. Purpose
 
 <h2 style="margin-left: -8px;"><br />Learning<br /><br /></h2>
 
-#_ There are only two things worth reading -- Shakespeare and The Economist.
-# Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
+#_ Put in the effort to understand Shakespeare. He posed most of the questions worth asking, and found the only answers we're ever going to get.
 # The Economist does a pretty good job covering the rest.
+
 
