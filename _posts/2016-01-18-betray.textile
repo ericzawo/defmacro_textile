@@ -8,12 +8,12 @@ h1. {{ page.title }}
 
 p(meta). 18 Jan 2016
 
-This spring I'm turning thirty three. I fully appreciate the irony of giving life advice as a thirty three year old, but I thought it would be interesting to distill what I've learned so far into a list of lessons. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
+This spring I'm turning thirty-three. I fully appreciate the irony of giving life advice as a thirty-three year old, but I thought it would be interesting to distill what I've learned so far into a list of lessons. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
 
 h2. Purpose
 <br />
 
-# My grandmother is ninety two. First her world shrunk to her room, then to her bed, then to one side of the bed. Then she forgot the names of her loved ones. Then she stopped recognizing our faces. We accumulate nothing and we die alone.
+# My grandmother is ninety-two. First her world shrunk to her room, then to her bed, then to one side of the bed. Then she forgot the names of her loved ones. Then she stopped recognizing our faces. We accumulate nothing and we die alone.
 # So make your life count. Most things aren't worth fearing. You don't need to be anything, and you don't need to tally your life using anyone else's scoring system. Be deliberate about the responsibilities you assume. Have the courage to betray your idols.
 # Ambition won't make you happy. No matter how interesting the game, sooner or later it will seize to be meaningful. If you have nothing else, you'll find yourself in an abyss so deep it may be too late to climb out.
 # Guard yourself relentlessly against bitterness and cynicism. Choose a life of service. Stand for something. Find a mission that's meaningful to other people, and pour all of yourself into that mission. If you succeed, at the very least you will have improved people's lives. If you fail or were wrong, you'll find solace in having tried.
@@ -37,7 +37,7 @@ h2. Purpose
 # Surrounding yourself with the right people is the other 50%.
 # Cultivate respect for competence. Odds are, no U.S. president was an idiot. If you find yourself dismissing people too often, look in the mirror.
 # Don't commit to an opinion until you have to. Odds are you're probably wrong.
-# But if you must commit, make your choice and stick to it unless there is new evidence. Cultivate strong opinions, weakly held.
+# But if you must commit, stick to your guns unless there is new evidence. Cultivate strong opinions, weakly held.
 # Large groups of people are probability distributions. Don't anthropomorphize them.
 # Don't worry so much. If you see ten problems walking toward you, nine of them will fall into a ditch by the time they get to you.
 
