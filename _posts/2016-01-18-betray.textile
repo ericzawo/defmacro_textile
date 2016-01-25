@@ -17,9 +17,8 @@ h2. Purpose
 # So make your life count. Most things aren't worth fearing. You don't need to be anything, and you don't need to tally your life using anyone else's scoring system. Be deliberate about the responsibilities you assume. Have the courage to betray your idols.
 # Ambition won't make you happy. No matter how interesting the game, sooner or later it will seize to be meaningful. If you have nothing else, you'll find yourself in an abyss so deep it may be too late to climb out.
 # Guard yourself relentlessly against bitterness and cynicism. Choose a life of service. Stand for something. Find a mission that's meaningful to other people, and pour all of yourself into that mission. If you succeed, at the very least you will have improved people's lives. If you fail or were wrong, you'll find solace in having tried.
-
-// TODO: running out of reasons
-// TODO: risk everything
+# There will be times when you run out of reasons to do what you're doing. The decisions you make will be the most important in your life.
+# Sometimes you have to roll a hard six.
 
 <h2 style="margin-left: -8px;"><br />Relationships<br /><br /></h2>
 
