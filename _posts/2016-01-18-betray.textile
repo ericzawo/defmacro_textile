@@ -27,7 +27,7 @@ h2. Purpose
 # Every human being has an inalienable birthright to their own story. Let go of your expectations for other people and don't ever try to coerce anyone to be a particular way. You can only start building meaningful relationships when you accept people exactly as they are.
 # Always be honest, especially when you're afraid. Stop acting. Have the courage to express what's in your heart. Say the words you need to say even when your voice shakes.
 # Be earnest. Humor is a spice, not a meal.
-# People want to be lead. Find the courage, the humility, and the vision to lead and the world will be at your fingertips.
+# People want to be lead. Find the courage, the humility, and the vision to lead, and the world will be at your fingertips.
 
 <h2 style="margin-left: -8px;"><br />Career<br /><br /></h2>
 
@@ -36,7 +36,8 @@ h2. Purpose
 # But don't wait too long. On s’engage et puis... on voit.
 # Surrounding yourself with the right people is the other 50%.
 # Cultivate respect for competence. Odds are, no U.S. president was an idiot. If you find yourself dismissing people too often, look in the mirror.
-# Don't commit to an opinion unless you have to. Odds are you're probably wrong.
+# Don't commit to an opinion until you have to. Odds are you're probably wrong.
+# But if you must commit, make your choice and stick to it unless there is new evidence. Cultivate strong opinions, weakly held.
 # Large groups of people are probability distributions. Don't anthropomorphize them.
 # Don't worry so much. If you see ten problems walking toward you, nine of them will fall into a ditch by the time they get to you.
 
