@@ -6,7 +6,7 @@ wip: true
 
 h1. {{ page.title }}
 
-p(meta). 18 Jan 2016
+p(meta). 25 Jan 2016
 
 This spring I'm turning thirty-three. I fully appreciate the irony of giving life advice as a thirty-three year old, but I thought it would be interesting to distill what I've learned so far into a list of lessons. I'm publishing the list, partly so I don't forget to look back at it and laugh a decade from now, and partly because it might help some people crystallize their own thoughts.
 
