@@ -34,7 +34,7 @@ foo
 
 h2. The hook
 
-One issue to kick things off
+One issue to kick things off, give an example
 
 h2. Market resonance
 
